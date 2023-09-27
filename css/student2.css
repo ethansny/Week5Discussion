@@ -51,7 +51,7 @@ body{
 }
    .gallery img {
       width: 250px;
-      border: 1px solid black;
+      border: 1px dashed black;
    }
    .gallery img:last-child {
       grid-column: 1 / 4;
